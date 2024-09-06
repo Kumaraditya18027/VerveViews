@@ -6,14 +6,11 @@
 .pnp.js
 
 #keys
-src/firebaseConfig.js
 # testing
 /coverage
 
 # production
 /build
-/.firebasesrc
-/firebase.json
 
 # misc
 .DS_Store
