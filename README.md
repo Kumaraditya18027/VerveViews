@@ -8,9 +8,8 @@ This project is a web application for managing articles and user comments. It al
 
 Article Management: Users can browse through a list of articles, view details of individual articles, and create new articles.
 User Authentication: The application includes user authentication functionality, allowing users to sign in with their accounts, which enables them to create articles and leave comments.
-Real-time Updates: Comments are updated in real-time using Firebase Firestore, ensuring that users see the latest comments without refreshing the page.
 Likes: Users can like articles or comments, with the number of likes displayed alongside each article or comment.
-
+Diary: Users can write their daily diary and Publish the section of their diaries whenever they want.
 ## Available Scripts
 
 In the project directory, you can run:
